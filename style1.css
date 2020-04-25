@@ -182,3 +182,20 @@ border-radius: 8px;
      width:225px;
   }
 }
+
+@media screen and (max-width:600px){
+  .search-box{
+        left: 9%;
+  }
+}
+
+@media screen and (max-width:500px){
+  .search-box{
+        left: 8%;
+  }
+}
+@media screen and (max-width:400px){
+  .search-box{
+        left: 6%;
+  }
+}
