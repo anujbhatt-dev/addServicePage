@@ -171,3 +171,14 @@ border-radius: 8px;
 .container1{
   margin-top: 8%;
 }
+
+@media screen and (max-width:1000px){
+  .search-box{
+        left: 5%;
+    top: 14%;
+    transform: translate(0%);
+  }
+  .search-box:hover>.search-txt{
+     width:225px;
+  }
+}
