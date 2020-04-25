@@ -175,7 +175,7 @@ border-radius: 8px;
 @media screen and (max-width:1000px){
   .search-box {
       left: 49.5%;
-      top: 32%;
+      top: 42%;
       /* transform: translate(0%); */
   }
   .search-box:hover>.search-txt{
